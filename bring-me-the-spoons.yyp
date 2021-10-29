@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
+    {"id":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"order":3,},
     {"id":{"name":"s_ketchup","path":"sprites/s_ketchup/s_ketchup.yy",},"order":4,},
     {"id":{"name":"s_spoonman","path":"sprites/s_spoonman/s_spoonman.yy",},"order":0,},
     {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"order":2,},
