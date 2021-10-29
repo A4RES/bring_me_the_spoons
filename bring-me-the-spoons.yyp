@@ -1,7 +1,11 @@
 {
   "resources": [
+    {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"s_spoonman","path":"sprites/s_spoonman/s_spoonman.yy",},"order":0,},
     {"id":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"order":0,},
+    {"id":{"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},"order":3,},
+    {"id":{"name":"s_hotdog","path":"sprites/s_hotdog/s_hotdog.yy",},"order":2,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
