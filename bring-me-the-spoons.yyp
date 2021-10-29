@@ -1,12 +1,15 @@
 {
   "resources": [
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
+    {"id":{"name":"s_ketchup","path":"sprites/s_ketchup/s_ketchup.yy",},"order":4,},
     {"id":{"name":"s_spoonman","path":"sprites/s_spoonman/s_spoonman.yy",},"order":0,},
+    {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"order":2,},
+    {"id":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"order":1,},
     {"id":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"order":0,},
     {"id":{"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},"order":3,},
+    {"id":{"name":"create_ketchup_and_mustard","path":"scripts/create_ketchup_and_mustard/create_ketchup_and_mustard.yy",},"order":0,},
     {"id":{"name":"s_hotdog","path":"sprites/s_hotdog/s_hotdog.yy",},"order":2,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"r_lvl1","path":"rooms/r_lvl1/r_lvl1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
@@ -28,7 +31,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"r_lvl1","path":"rooms/r_lvl1/r_lvl1.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},

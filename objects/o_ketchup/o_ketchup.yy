@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_spoonman",
-    "path": "sprites/s_spoonman/s_spoonman.yy",
+    "name": "s_ketchup",
+    "path": "sprites/s_ketchup/s_ketchup.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_spoon_man",
+  "name": "o_ketchup",
   "tags": [],
   "resourceType": "GMObject",
 }
