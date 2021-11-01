@@ -1,4 +1,4 @@
-
+///@description movment and shooting 
 //code that has the player move right when pressing D 
  if keyboard_check(ord("D")){
  motion_add(image_angle,2);
