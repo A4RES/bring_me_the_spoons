@@ -1,4 +1,5 @@
-/// @description 
+ /// @description 
 
 instance_destroy()
-other.health -= 1; 
+
+audio_play_sound(a_death_sound, 100, false)

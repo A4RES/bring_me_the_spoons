@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_ketchup",
-    "path": "sprites/s_ketchup/s_ketchup.yy",
+    "name": "s_floor",
+    "path": "sprites/s_floor/s_floor.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,10 +20,7 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -31,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_ketchup",
+  "name": "o_ground",
   "tags": [],
   "resourceType": "GMObject",
 }
