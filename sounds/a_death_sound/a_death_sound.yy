@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "a_shoot.wav",
-  "duration": 0.180884,
+  "soundFile": "a_death_sound.mp3",
+  "duration": 2.403265,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "a_shoot",
+  "name": "a_death_sound",
   "tags": [],
   "resourceType": "GMSound",
 }
