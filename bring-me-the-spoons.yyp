@@ -11,7 +11,6 @@
     {"id":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"order":1,},
     {"id":{"name":"a_bruhSFX","path":"sounds/a_bruhSFX/a_bruhSFX.yy",},"order":0,},
     {"id":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"order":0,},
-    {"id":{"name":"s_floor","path":"sprites/s_floor/s_floor.yy",},"order":5,},
     {"id":{"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},"order":3,},
     {"id":{"name":"create_ketchup_and_mustard","path":"scripts/create_ketchup_and_mustard/create_ketchup_and_mustard.yy",},"order":0,},
     {"id":{"name":"a_death_sound","path":"sounds/a_death_sound/a_death_sound.yy",},"order":3,},
@@ -64,7 +63,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "bring-me-the-spoons",
