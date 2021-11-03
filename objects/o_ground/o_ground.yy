@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_floor",
-    "path": "sprites/s_floor/s_floor.yy",
+    "name": "",
+    "path": "",
   },
   "solid": false,
   "visible": true,
