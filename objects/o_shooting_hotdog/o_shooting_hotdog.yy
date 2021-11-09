@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_ground",
-    "path": "sprites/s_ground/s_ground.yy",
+    "name": "s_hotdog2",
+    "path": "sprites/s_hotdog2/s_hotdog2.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_ground",
+  "name": "o_shooting_hotdog",
   "tags": [],
   "resourceType": "GMObject",
 }
