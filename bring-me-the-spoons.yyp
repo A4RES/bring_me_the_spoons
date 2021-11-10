@@ -16,7 +16,11 @@
     {"id":{"name":"o_shooting_hotdog","path":"objects/o_shooting_hotdog/o_shooting_hotdog.yy",},"order":7,},
     {"id":{"name":"s_spoonman","path":"sprites/s_spoonman/s_spoonman.yy",},"order":0,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":5,},
+<<<<<<< HEAD
     {"id":{"name":"s_game_logo","path":"sprites/s_game_logo/s_game_logo.yy",},"order":10,},
+=======
+    {"id":{"name":"L2_sky","path":"sprites/L2_sky/L2_sky.yy",},"order":10,},
+>>>>>>> cec9a6c6ae902be21e71f3400292249e1ddf6e9a
     {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"order":2,},
     {"id":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"order":1,},
     {"id":{"name":"a_bruhSFX","path":"sounds/a_bruhSFX/a_bruhSFX.yy",},"order":0,},
