@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_ketchup",
-    "path": "sprites/s_ketchup/s_ketchup.yy",
+    "name": "OUT_OF_BOUNDS",
+    "path": "sprites/OUT_OF_BOUNDS/OUT_OF_BOUNDS.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,9 +21,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -32,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_ketchup",
+  "name": "s_bounds",
   "tags": [],
   "resourceType": "GMObject",
 }
