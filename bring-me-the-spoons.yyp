@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"s_bounds","path":"objects/s_bounds/s_bounds.yy",},"order":8,},
     {"id":{"name":"o_ground","path":"objects/o_ground/o_ground.yy",},"order":4,},
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
     {"id":{"name":"a_shoot","path":"sounds/a_shoot/a_shoot.yy",},"order":2,},
@@ -20,6 +21,7 @@
     {"id":{"name":"a_bruhSFX","path":"sounds/a_bruhSFX/a_bruhSFX.yy",},"order":0,},
     {"id":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"order":0,},
     {"id":{"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},"order":3,},
+    {"id":{"name":"OUT_OF_BOUNDS","path":"sprites/OUT_OF_BOUNDS/OUT_OF_BOUNDS.yy",},"order":11,},
     {"id":{"name":"create_ketchup_and_mustard","path":"scripts/create_ketchup_and_mustard/create_ketchup_and_mustard.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
     {"id":{"name":"a_death_sound","path":"sounds/a_death_sound/a_death_sound.yy",},"order":3,},
