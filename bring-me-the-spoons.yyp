@@ -49,7 +49,6 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"","path":"",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "Folders": [
@@ -76,7 +75,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "bring-me-the-spoons",
