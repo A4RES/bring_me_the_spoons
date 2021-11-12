@@ -31,7 +31,7 @@ var right = keyboard_check(ord("D"))
  
  if (shoot){
 	create_ketchup_and_mustard()
-	audio_play_sound(a_boom,5,false)
+	audio_play_sound(a_shoot,5,false)
 	
  }
  
