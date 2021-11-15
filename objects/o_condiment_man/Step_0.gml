@@ -47,3 +47,4 @@ if(jump){
 	image_speed = 3; 
 
 }
+
