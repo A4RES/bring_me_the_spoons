@@ -14,7 +14,6 @@
     {"id":{"name":"s_spoon","path":"sprites/s_spoon/s_spoon.yy",},"order":7,},
     {"id":{"name":"dont_leave_screen","path":"scripts/dont_leave_screen/dont_leave_screen.yy",},"order":1,},
     {"id":{"name":"o_shooting_hotdog","path":"objects/o_shooting_hotdog/o_shooting_hotdog.yy",},"order":7,},
-    {"id":{"name":"spr_next_room_door","path":"sprites/spr_next_room_door/spr_next_room_door.yy",},"order":12,},
     {"id":{"name":"s_spoonman","path":"sprites/s_spoonman/s_spoonman.yy",},"order":0,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":5,},
     {"id":{"name":"L2_sky","path":"sprites/L2_sky/L2_sky.yy",},"order":10,},
