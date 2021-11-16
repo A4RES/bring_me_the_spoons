@@ -31,6 +31,7 @@
     {"id":{"name":"a_fart","path":"sounds/a_fart/a_fart.yy",},"order":5,},
     {"id":{"name":"a_boom","path":"sounds/a_boom/a_boom.yy",},"order":6,},
     {"id":{"name":"out_of_bounds_obj","path":"objects/out_of_bounds_obj/out_of_bounds_obj.yy",},"order":8,},
+    {"id":{"name":"fly_condement_man","path":"sprites/fly_condement_man/fly_condement_man.yy",},"order":12,},
     {"id":{"name":"ts_ground","path":"tilesets/ts_ground/ts_ground.yy",},"order":0,},
     {"id":{"name":"a_OOF","path":"sounds/a_OOF/a_OOF.yy",},"order":4,},
     {"id":{"name":"s_hotdog","path":"sprites/s_hotdog/s_hotdog.yy",},"order":2,},
