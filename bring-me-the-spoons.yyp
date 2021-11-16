@@ -7,6 +7,7 @@
     {"id":{"name":"o_spoon","path":"objects/o_spoon/o_spoon.yy",},"order":6,},
     {"id":{"name":"a_music1","path":"sounds/a_music1/a_music1.yy",},"order":1,},
     {"id":{"name":"s_hotdog2","path":"sprites/s_hotdog2/s_hotdog2.yy",},"order":9,},
+    {"id":{"name":"spoonbullet","path":"sprites/spoonbullet/spoonbullet.yy",},"order":12,},
     {"id":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"order":3,},
     {"id":{"name":"s_ketchup","path":"sprites/s_ketchup/s_ketchup.yy",},"order":6,},
     {"id":{"name":"s_ground","path":"sprites/s_ground/s_ground.yy",},"order":8,},
@@ -81,7 +82,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.3.574",
+    "IDEVersion": "2.3.4.580",
   },
   "resourceVersion": "1.4",
   "name": "bring-me-the-spoons",
