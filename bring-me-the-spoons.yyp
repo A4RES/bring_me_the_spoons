@@ -8,6 +8,7 @@
     {"id":{"name":"a_music1","path":"sounds/a_music1/a_music1.yy",},"order":1,},
     {"id":{"name":"s_hotdog2","path":"sprites/s_hotdog2/s_hotdog2.yy",},"order":9,},
     {"id":{"name":"spoonbullet","path":"sprites/spoonbullet/spoonbullet.yy",},"order":12,},
+    {"id":{"name":"next_stage","path":"objects/next_stage/next_stage.yy",},"order":9,},
     {"id":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"order":3,},
     {"id":{"name":"s_ketchup","path":"sprites/s_ketchup/s_ketchup.yy",},"order":6,},
     {"id":{"name":"s_ground","path":"sprites/s_ground/s_ground.yy",},"order":8,},
@@ -16,7 +17,9 @@
     {"id":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},"order":1,},
     {"id":{"name":"o_shooting_hotdog","path":"objects/o_shooting_hotdog/o_shooting_hotdog.yy",},"order":7,},
     {"id":{"name":"s_spoonman","path":"sprites/s_spoonman/s_spoonman.yy",},"order":0,},
+    {"id":{"name":"r_level_2","path":"rooms/r_level_2/r_level_2.yy",},"order":2,},
     {"id":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"order":5,},
+    {"id":{"name":"s_victory","path":"sprites/s_victory/s_victory.yy",},"order":13,},
     {"id":{"name":"L2_sky","path":"sprites/L2_sky/L2_sky.yy",},"order":10,},
     {"id":{"name":"o_ketchup","path":"objects/o_ketchup/o_ketchup.yy",},"order":2,},
     {"id":{"name":"s_menu","path":"sprites/s_menu/s_menu.yy",},"order":11,},
@@ -34,6 +37,7 @@
     {"id":{"name":"fly_condement_man","path":"sprites/fly_condement_man/fly_condement_man.yy",},"order":12,},
     {"id":{"name":"ts_ground","path":"tilesets/ts_ground/ts_ground.yy",},"order":0,},
     {"id":{"name":"a_OOF","path":"sounds/a_OOF/a_OOF.yy",},"order":4,},
+    {"id":{"name":"level_2","path":"sprites/level_2/level_2.yy",},"order":14,},
     {"id":{"name":"s_hotdog","path":"sprites/s_hotdog/s_hotdog.yy",},"order":2,},
   ],
   "Options": [
@@ -58,6 +62,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
     {"roomId":{"name":"r_level_1","path":"rooms/r_level_1/r_level_1.yy",},},
+    {"roomId":{"name":"r_level_2","path":"rooms/r_level_2/r_level_2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
