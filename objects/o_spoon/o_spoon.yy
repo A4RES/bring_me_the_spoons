@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_spoon",
-    "path": "sprites/s_spoon/s_spoon.yy",
+    "name": "spoonbullet",
+    "path": "sprites/spoonbullet/spoonbullet.yy",
   },
   "solid": false,
   "visible": true,
