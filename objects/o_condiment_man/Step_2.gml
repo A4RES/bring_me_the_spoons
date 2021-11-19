@@ -1,5 +1,4 @@
-/// @description do not leave room 
+/// @description 
 
-// makes sure that the player does not leave the room 
 event_inherited();
 dont_leave_screen();

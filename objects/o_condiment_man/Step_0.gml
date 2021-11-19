@@ -1,4 +1,4 @@
-   ///@description movment and shooting 
+  ///@description movment and shooting 
 //code that has the player move right when pressing D 
 var left = keyboard_check(ord("A"))
 var right = keyboard_check(ord("D"))
