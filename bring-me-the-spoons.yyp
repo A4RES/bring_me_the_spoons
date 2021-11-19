@@ -1,6 +1,5 @@
 {
   "resources": [
-    {"id":{"name":"o_ground","path":"objects/o_ground/o_ground.yy",},"order":4,},
     {"id":{"name":"a_boss_music","path":"sounds/a_boss_music/a_boss_music.yy",},"order":8,},
     {"id":{"name":"s_condiment_man","path":"sprites/s_condiment_man/s_condiment_man.yy",},"order":1,},
     {"id":{"name":"a_shoot","path":"sounds/a_shoot/a_shoot.yy",},"order":2,},

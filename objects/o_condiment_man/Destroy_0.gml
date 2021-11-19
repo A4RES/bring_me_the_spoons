@@ -1,6 +1,6 @@
- /// @description Restart
- // restarts the level when the player dies
-room_restart();
+/// @description Restart level
 
-// stops all sounds so they dont overlap 
+room_restart()
+
+
 audio_stop_all();

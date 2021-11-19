@@ -29,6 +29,7 @@ var right = keyboard_check(ord("D"))
  
  var shoot = mouse_check_button_pressed(mb_left)
  
+ // creates ketchup and mustard when left mouse button is pressed 
  if (shoot){
 	create_ketchup_and_mustard()
 	audio_play_sound(a_shoot,5,false)
@@ -36,11 +37,11 @@ var right = keyboard_check(ord("D"))
  }
  
  
- 
+ // var for key to use jetpack
  var jump = keyboard_check(ord("W"))
 
 
-
+// condiment man will use his jetpack to take off 
 if(jump){
 	motion_add(image_angle + 90, 2) 
 	gravity = gravity_amount; 
