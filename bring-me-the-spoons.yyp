@@ -36,6 +36,8 @@
     {"id":{"name":"o_strike","path":"objects/o_strike/o_strike.yy",},"order":12,},
     {"id":{"name":"o_spoon_man","path":"objects/o_spoon_man/o_spoon_man.yy",},"order":0,},
     {"id":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"order":10,},
+    {"id":{"name":"create_spoon","path":"scripts/create_spoon/create_spoon.yy",},"order":4,},
+    {"id":{"name":"spoon","path":"objects/spoon/spoon.yy",},"order":15,},
     {"id":{"name":"o_menu","path":"objects/o_menu/o_menu.yy",},"order":8,},
     {"id":{"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},"order":3,},
     {"id":{"name":"a_level_music","path":"sounds/a_level_music/a_level_music.yy",},"order":7,},
