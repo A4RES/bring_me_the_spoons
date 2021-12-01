@@ -31,6 +31,7 @@ var right = keyboard_check(ord("D"))
  
  // creates ketchup and mustard when left mouse button is pressed 
  if (shoot){
+	 
 	create_ketchup_and_mustard()
 	audio_play_sound(a_shoot,5,false)
 	
