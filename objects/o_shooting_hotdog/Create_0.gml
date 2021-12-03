@@ -1,7 +1,11 @@
- var jump = keyboard_check(ord("D"))
+ /*var jump = keyboard_check(ord("D"))
 if(jump){
 	motion_add(image_angle + 90, 2) 
 	gravity = gravity_amount; 
 	image_speed = 3; 
 
-}
+} 
+*/
+
+alarm [0] = fire_rate;
+  

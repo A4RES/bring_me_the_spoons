@@ -3,6 +3,10 @@
 var left = keyboard_check(ord("A"))
 var right = keyboard_check(ord("D"))
 
+/*var mouse_directiton = point_direction(x, y, mouse_x, mouse_y);
+image_angle = mouse_directiton;
+direction = mouse_directiton;
+*/
 
  if (right){
  motion_add(image_angle,2);

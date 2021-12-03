@@ -1,1 +1,0 @@
-display_set_gui_size(0,0)

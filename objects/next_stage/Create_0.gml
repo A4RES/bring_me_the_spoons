@@ -1,8 +1,5 @@
+/// @description next level 
 
-
-//var spawn = variable_instance_names_count(o_hotdog);
-
-/*
-if spawn = 0{
-	instance_create_layer(o_condiment_man.x +300, o_condiment_man.y,"Instances",next_stage);
+if score = 30{
+	instance_create_layer(100,100,"Instances", next_stage);
 }
