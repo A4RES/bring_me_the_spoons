@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-
+/* 
 var player = instance_find(o_condiment_man,0);
 
 var distance = point_distance(x, y, player.x, player.y);
@@ -28,4 +28,4 @@ if (distance <= attack_range){
 	laser.direction = _direction;
 }
 
-alarm[0] = fire_rate;
+alarm[0] = fire_rate; 

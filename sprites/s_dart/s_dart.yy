@@ -7,10 +7,10 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 9,
-  "bbox_right": 59,
-  "bbox_top": 0,
-  "bbox_bottom": 39,
+  "bbox_left": 24,
+  "bbox_right": 47,
+  "bbox_top": 31,
+  "bbox_bottom": 35,
   "HTile": false,
   "VTile": false,
   "For3D": false,
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"241833f7-edc8-48b9-b3ec-5ef3efc336d4","path":"sprites/s_harry/s_harry.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"241833f7-edc8-48b9-b3ec-5ef3efc336d4","path":"sprites/s_harry/s_harry.yy",},"LayerId":{"name":"8f3f8b61-7757-46b3-b871-5be01579e9f2","path":"sprites/s_harry/s_harry.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},"resourceVersion":"1.0","name":"241833f7-edc8-48b9-b3ec-5ef3efc336d4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"472ff434-3a8a-42fa-9aa5-a96ef5343dbf","path":"sprites/s_dart/s_dart.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"472ff434-3a8a-42fa-9aa5-a96ef5343dbf","path":"sprites/s_dart/s_dart.yy",},"LayerId":{"name":"f5d5457e-5419-4d9b-a054-f5e06828facc","path":"sprites/s_dart/s_dart.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"s_dart","path":"sprites/s_dart/s_dart.yy",},"resourceVersion":"1.0","name":"472ff434-3a8a-42fa-9aa5-a96ef5343dbf","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},
+    "spriteId": {"name":"s_dart","path":"sprites/s_dart/s_dart.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"d3fb310d-adb2-46f6-a52e-e8122a7bc13f","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"241833f7-edc8-48b9-b3ec-5ef3efc336d4","path":"sprites/s_harry/s_harry.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"cb3c2e16-4143-42bc-8678-cde333beca01","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"472ff434-3a8a-42fa-9aa5-a96ef5343dbf","path":"sprites/s_dart/s_dart.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,14 +58,14 @@
     "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"s_harry","path":"sprites/s_harry/s_harry.yy",},
+    "parent": {"name":"s_dart","path":"sprites/s_dart/s_dart.yy",},
     "resourceVersion": "1.3",
-    "name": "s_harry",
+    "name": "s_dart",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8f3f8b61-7757-46b3-b871-5be01579e9f2","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f5d5457e-5419-4d9b-a054-f5e06828facc","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "s_harry",
+  "name": "s_dart",
   "tags": [],
   "resourceType": "GMSprite",
 }

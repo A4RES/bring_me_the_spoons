@@ -1,4 +1,4 @@
-/// @description 
+ /// @description 
 
 if room = r_level_1{
 	audio_play_sound(a_level_music,5,true);
@@ -6,7 +6,7 @@ if room = r_level_1{
 audio_stop_sound(a_level_music);
 }
 
-if room = r_level_3{
+if room = r_level_4{
 	audio_play_sound(a_boss_music,5,true)
 }else{
 	audio_stop_sound(a_boss_music);
