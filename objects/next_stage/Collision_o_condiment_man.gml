@@ -1,8 +1,5 @@
-if room = r_level_1{
-room_goto(r_level_2)
-}
-
-if room = r_level_2{
+room_goto(loading)
+/*if room = r_level_2{
 	room_goto(r_level_3);
 }
 
