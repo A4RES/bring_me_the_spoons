@@ -10,8 +10,8 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "a_level_music.ogg",
-  "duration": 26.5524254,
+  "soundFile": "a_level_music.wav",
+  "duration": 24.76499,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

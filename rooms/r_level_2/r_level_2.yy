@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_enemy_spawner","path":"objects/o_enemy_spawner/o_enemy_spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":864.0,"y":320.0,"resourceVersion":"1.0","name":"inst_2B3F63C4","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_enemy_spawner","path":"objects/o_enemy_spawner/o_enemy_spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":192.0,"resourceVersion":"1.0","name":"inst_6ADA8858","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":128.0,"y":640.0,"resourceVersion":"1.0","name":"inst_5865FE25","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"rock","path":"objects/rock/rock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":true,"inheritItemSettings":false,"x":320.0,"y":-160.0,"resourceVersion":"1.0","name":"inst_22DB0574","tags":[],"resourceType":"GMRInstance",},
@@ -44,6 +43,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"o_l_spike","path":"objects/o_l_spike/o_l_spike.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":0.2888889,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":800.0,"y":352.0,"resourceVersion":"1.0","name":"inst_617C88FC","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":544.0,"y":384.0,"resourceVersion":"1.0","name":"inst_180F762B","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_shooting_hotdog","path":"objects/o_shooting_hotdog/o_shooting_hotdog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":416.0,"resourceVersion":"1.0","name":"inst_2E8DAE5E","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_game","path":"objects/o_game/o_game.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":736.0,"y":288.0,"resourceVersion":"1.0","name":"inst_65C412D0","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"level_2","path":"sprites/level_2/level_2.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":true,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -73,7 +73,6 @@
     {"name":"inst_71179682","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_44E6F61E","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_6ADA8858","path":"rooms/r_level_2/r_level_2.yy",},
-    {"name":"inst_2B3F63C4","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_576536BA","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_4EAE66D","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_2EC64E53","path":"rooms/r_level_2/r_level_2.yy",},
@@ -81,6 +80,7 @@
     {"name":"inst_617C88FC","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_180F762B","path":"rooms/r_level_2/r_level_2.yy",},
     {"name":"inst_2E8DAE5E","path":"rooms/r_level_2/r_level_2.yy",},
+    {"name":"inst_65C412D0","path":"rooms/r_level_2/r_level_2.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
