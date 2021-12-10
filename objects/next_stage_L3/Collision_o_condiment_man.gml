@@ -1,1 +1,1 @@
-room_goto(r_level_3)
+room_goto(r_hint)
