@@ -1,11 +1,7 @@
- /*var jump = keyboard_check(ord("D"))
-if(jump){
-	motion_add(image_angle + 90, 2) 
-	gravity = gravity_amount; 
-	image_speed = 3; 
+/// @description Insert description here
+// You can write your code in this editor
 
-} 
-*/
+// Inherit the parent event
+event_inherited();
 
-alarm [0] = fire_rate;
-  
+alarm[0] = fire_rate;
