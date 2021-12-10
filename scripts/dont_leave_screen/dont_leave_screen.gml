@@ -4,6 +4,7 @@ function dont_leave_screen(){
 	var half_width = sprite_get_width(sprite_index) /2; 
 	var half_height = sprite_get_height(sprite_index) /2;
 	var momentum_loss = 0.5; 
+// prevents the user from leaving the game screen
 
 	// these commands will make the ship not leave the area of the room 
 	/*if (x < half_width or x > room_width+half_width){

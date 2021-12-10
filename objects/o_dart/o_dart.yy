@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_dart",
-    "path": "sprites/s_dart/s_dart.yy",
+    "name": "Sprite36",
+    "path": "sprites/Sprite36/Sprite36.yy",
   },
   "solid": false,
   "visible": true,
@@ -22,6 +22,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_condiment_man","path":"objects/o_condiment_man/o_condiment_man.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

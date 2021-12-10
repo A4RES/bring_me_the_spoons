@@ -8,3 +8,5 @@ if room = r_level_3{
 }
 
 audio_play_sound(a_level_music,5,true);
+
+// two seperate rooms will be displayed dipending on what makes the colision event start 

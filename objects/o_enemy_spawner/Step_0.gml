@@ -16,3 +16,4 @@ if ( enemy_number = 0){
 	spawn_enemies(enemies_to_spawn, o_enemy1);
 	
 	
+// enemy spawner for all the hotdog enemys 

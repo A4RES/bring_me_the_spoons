@@ -8,3 +8,4 @@ motion_add(player_direction, 0.5);
 if (speed > max_speed){
 	speed = max_speed;
 	}
+	
