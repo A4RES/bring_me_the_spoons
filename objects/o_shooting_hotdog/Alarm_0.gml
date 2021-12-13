@@ -8,7 +8,7 @@ if (_distance <= attack_range){
 	var dart = instance_create_layer(x,y,"Instances", o_dart);
 	dart.speed = -5; 
 	
-	audio_play_sound(a_bruhSFX,5,false);
+	audio_play_sound(a_fart,5,false);
 	
 }
 alarm[0] = fire_rate;
