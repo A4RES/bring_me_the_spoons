@@ -33,7 +33,7 @@ direction = mouse_directiton;
 	friction = friction_amount; 
  }
  
- var shoot = mouse_check_button_pressed(mb_left);
+ var shoot = keyboard_check_pressed(vk_space)
  
  // creates ketchup and mustard when left mouse button is pressed 
  if (shoot){

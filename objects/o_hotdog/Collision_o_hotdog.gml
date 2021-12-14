@@ -1,3 +1,4 @@
-var momentum_loss = 0
+/*
+var momentum_loss = 
 
 hspeed = -hspeed* momentum_loss; 
