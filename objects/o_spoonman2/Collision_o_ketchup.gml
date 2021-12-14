@@ -1,1 +1,1 @@
-instance_destroy()
+health -= 200; 

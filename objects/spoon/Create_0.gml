@@ -1,4 +1,4 @@
-
+ 
  var find_player = instance_find(o_condiment_man,0);
 // finds the player to end the game 
 var player_direction = point_direction(x, y, find_player.x, find_player.y);
