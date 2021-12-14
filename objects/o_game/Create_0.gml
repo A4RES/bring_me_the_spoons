@@ -1,5 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
+global.score = 0;
+global.highscore = 0; 
+
 if room = r_menu{
 	audio_play_sound(a_music1,5,true);
 }else{
