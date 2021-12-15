@@ -1,3 +1,4 @@
 /// @description vars
 
-health = 50; 
+global.health = 50; 
+speed = 2; 

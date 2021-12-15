@@ -1,1 +1,5 @@
-health -= 200;
+///@description minus health
+
+instance_destroy();
+
+global.score += 50; 

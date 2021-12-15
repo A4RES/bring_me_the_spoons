@@ -1,3 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-health = 200;  
+global.health = 200;  
+
+alarm[0] = fire_rate;

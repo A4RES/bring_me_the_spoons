@@ -30,7 +30,11 @@
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_strike","path":"objects/o_strike/o_strike.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
+<<<<<<< Updated upstream
     {"varType":1,"value":"3","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":" max_speed","tags":[],"resourceType":"GMObjectProperty",},
+=======
+    {"varType":1,"value":"2","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":" max_speed","tags":[],"resourceType":"GMObjectProperty",},
+>>>>>>> Stashed changes
     {"varType":1,"value":"0","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"score","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [],
