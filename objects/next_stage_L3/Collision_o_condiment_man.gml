@@ -1,3 +1,3 @@
-room_goto(r_loading_screen_2)
+room_goto(r_hint)
 
 // has the same objective but for stage 3s hint screen 

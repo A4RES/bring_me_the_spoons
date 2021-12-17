@@ -1,4 +1,4 @@
-room_goto(r_loading_screen_1)
+room_goto(loading)
 /*if room = r_level_2{
 	room_goto(r_level_3);
 }

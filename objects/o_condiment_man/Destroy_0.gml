@@ -3,4 +3,6 @@
 room_restart()
 
 
-audio_stop_all();
+audio_stop_sound(a_level_music)
+
+audio_stop_sound(a_boss_music)
