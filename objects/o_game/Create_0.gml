@@ -1,5 +1,7 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description vars & music
+
+global.score = 0;
+
 if room = r_menu{
 	audio_play_sound(a_music1,5,true);
 }else{
@@ -30,3 +32,5 @@ if room = r_level_4{
 }else{
 	audio_stop_sound(a_boss_music);
 }
+
+ 
