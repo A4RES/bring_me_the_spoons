@@ -10,4 +10,5 @@ function spawn_hotdogs(){
 	var _y = center_y + lengthdir_y(distance, _direction);
 	
 	instance_create_layer(_x,_y,"Instances", o_hotdog);
+	instance_create_layer(_x,_y,"Instances", o_shooting_hotdog);
 }
