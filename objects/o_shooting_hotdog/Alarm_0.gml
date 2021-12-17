@@ -1,4 +1,4 @@
- /// @description Insert description here
+/// @description Insert description here
 // You can write your code in this editor
 var player = instance_find(o_condiment_man,0)
 

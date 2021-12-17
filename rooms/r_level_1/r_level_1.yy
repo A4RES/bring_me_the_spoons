@@ -22,12 +22,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"o_game","path":"objects/o_game/o_game.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":192.0,"resourceVersion":"1.0","name":"inst_49288503","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":448.0,"y":-64.0,"resourceVersion":"1.0","name":"inst_378FFCF9","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":992.0,"y":-64.0,"resourceVersion":"1.0","name":"inst_7D3D4333","tags":[],"resourceType":"GMRInstance",},
-<<<<<<< Updated upstream
         {"properties":[],"isDnd":false,"objectId":{"name":"next_stage","path":"objects/next_stage/next_stage.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":960.0,"y":576.0,"resourceVersion":"1.0","name":"inst_5E8BA758","tags":[],"resourceType":"GMRInstance",},
-=======
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_enemy_spawner","path":"objects/o_enemy_spawner/o_enemy_spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":224.0,"resourceVersion":"1.0","name":"inst_409B3CF9","tags":[],"resourceType":"GMRInstance",},
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_enemy_spawner","path":"objects/o_enemy_spawner/o_enemy_spawner.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1024.0,"y":256.0,"resourceVersion":"1.0","name":"inst_4E777914","tags":[],"resourceType":"GMRInstance",},
->>>>>>> Stashed changes
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"s_background","path":"sprites/s_background/s_background.yy",},"colour":4294967295,"x":100,"y":1,"htiled":true,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -43,8 +38,7 @@
     {"name":"inst_49288503","path":"rooms/r_level_1/r_level_1.yy",},
     {"name":"inst_378FFCF9","path":"rooms/r_level_1/r_level_1.yy",},
     {"name":"inst_7D3D4333","path":"rooms/r_level_1/r_level_1.yy",},
-    {"name":"inst_409B3CF9","path":"rooms/r_level_1/r_level_1.yy",},
-    {"name":"inst_4E777914","path":"rooms/r_level_1/r_level_1.yy",},
+    {"name":"inst_5E8BA758","path":"rooms/r_level_1/r_level_1.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

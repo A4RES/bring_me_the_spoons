@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_dart",
-    "path": "sprites/s_dart/s_dart.yy",
+    "name": "",
+    "path": "",
   },
   "solid": false,
   "visible": true,
