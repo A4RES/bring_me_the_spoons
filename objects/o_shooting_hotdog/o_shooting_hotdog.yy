@@ -7,10 +7,7 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "o_hotdog",
-    "path": "objects/o_hotdog/o_hotdog.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -35,7 +32,7 @@
     {"varType":0,"value":"100","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"fire_rate","tags":[],"resourceType":"GMObjectProperty",},
   ],
   "overriddenProperties": [
-    {"propertyId":{"name":" max_speed","path":"objects/o_hotdog/o_hotdog.yy",},"objectId":{"name":"o_hotdog","path":"objects/o_hotdog/o_hotdog.yy",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"","path":"",},"objectId":{"name":"","path":"",},"value":"2","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
